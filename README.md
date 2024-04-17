@@ -68,7 +68,11 @@ Para o caso acima, descreva quais seriam os passos para analise e identificaçã
 
 > [!IMPORTANT]
 > **Os candidatos serão avaliados com base na clareza, precisão e detalhamento das respostas.**
+
+> [!IMPORTANT]
 > **A capacidade de compreender e comunicar efetivamente requisitos e problemas é fundamental.**
+
+> [!IMPORTANT]
 > **A organização e a estrutura das respostas também serão consideradas na avaliação.**
 
 ## Envio do teste
