@@ -68,6 +68,22 @@ Para o caso acima, descreva quais seriam os passos para analise e identificaçã
 
 ![anúncios pausado no magazord e sem estoque](aa.png)
 
+# 4º Cenário:
+
+Você está encarregado de testar a validação de dados cadastrais em um sistema de gerenciamento de usuários. O sistema possui os seguintes campos de cadastro:
+
+- Nome completo
+- E-mail
+- Número de telefone
+- Data de nascimento
+- Endereço (com campos para rua, cidade, estado e CEP)
+
+Houve alterações nos campos mencionados acima no cadastro do cliente, quais testes você faria para validar que o(s) campo(s) esta(ão) funcionando conforme esperado?
+
+![Alterar pessoa](AlterarPessoa.png)
+
+**Orientação:** Crie casos de teste para validar a entrada de dados nos campos modificados.
+
 ## Avaliação
 
 > [!IMPORTANT]
