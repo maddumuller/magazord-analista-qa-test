@@ -7,7 +7,7 @@
 # Teste para vaga de Analista de Qualidade no Magazord.com.br
 Este repositório tem como fim testar os candidatos para vaga de analista de qualidade na empresa [Magazord](https://magazord.com.br).
 
-## 1º Cenário:
+# 1º Cenário:
 
 Você está trabalhando como Analista de Qualidade em um projeto de integração de marketplaces de terceiros, como Amazon e Mercado Livre, em um grande e-commerce. A equipe de desenvolvimento concluiu a implementação da integração e você é responsável por realizar os testes para garantir que a funcionalidade esteja funcionando corretamente.
 Um detalhe importante, nessa integração, temos integração de estoque, anúncios, faturamento, pedidos e preço.
@@ -16,24 +16,24 @@ Um detalhe importante, nessa integração, temos integração de estoque, anúnc
 
 Descrever detalhadamente o plano de testes que você implementaria para validar a integração com o marketplace. Inclua no seu plano:
 
-1. Documentação e Materiais de Apoio:
-  - Identificação da documentação: Quais documentos e materiais de apoio serão utilizados para embasar o plano de testes? (Ex.: documentação oficial dos marketplaces, especificações técnicas da integração, requisitos do projeto, etc.)
-  - Análise da documentação: Como você analisará a documentação para identificar os pontos de teste?
-  - Mapeamento dos requisitos: Como você mapeará os requisitos da integração aos pontos de teste?
-  - Utilização de ferramentas: Quais ferramentas serão utilizadas para auxiliar na análise da documentação e no mapeamento dos requisitos? (Ex.: ferramentas de gerenciamento de requisitos, ferramentas de análise de texto, etc.)
+  1. Documentação e Materiais de Apoio:
+    - Identificação da documentação: Quais documentos e materiais de apoio serão utilizados para embasar o plano de testes? (Ex.: documentação oficial dos marketplaces, especificações técnicas da integração, requisitos do projeto, etc.)
+    - Análise da documentação: Como você analisará a documentação para identificar os pontos de teste?
+    - Mapeamento dos requisitos: Como você mapeará os requisitos da integração aos pontos de teste?
+    - Utilização de ferramentas: Quais ferramentas serão utilizadas para auxiliar na análise da documentação e no mapeamento dos requisitos? (Ex.: ferramentas de gerenciamento de requisitos, ferramentas de análise de texto, etc.)
 
-2. Abrangência dos Testes:
-  - Funcionalidades: Quais funcionalidades da integração serão testadas?
-  - Casos de uso: Quais casos de uso serão considerados para cada funcionalidade? (Ex.: cenários de sucesso, cenários de falha, cenários de carga, etc.)
-  - Priorização dos testes: Quais critérios serão utilizados para priorizar os testes? (Ex.: criticidade da funcionalidade, impacto no negócio, riscos potenciais, etc.)
+  2. Abrangência dos Testes:
+    - Funcionalidades: Quais funcionalidades da integração serão testadas?
+    - Casos de uso: Quais casos de uso serão considerados para cada funcionalidade? (Ex.: cenários de sucesso, cenários de falha, cenários de carga, etc.)
+    - Priorização dos testes: Quais critérios serão utilizados para priorizar os testes? (Ex.: criticidade da funcionalidade, impacto no negócio, riscos potenciais, etc.)
 
-3. Execução dos Testes:
-  - Ambiente de teste: Qual ambiente de teste será utilizado? (Ex.: ambiente de homologação, ambiente de produção, etc.)
-  - Dados de teste: Como você obterá os dados de teste necessparios para os testes? (Ex.: dados de produtos, dados de pedidos, dados de usuários, etc.)
-  - Ferramentas de automação: Quais ferramentas de automação serão utilizadas para executar os testes? (Ex.: ferramentas de teste funcional, ferramentas de teste de API, etc.)
-  - Registro de resultados: Como você registrará os resultados dos testes? (Ex.: ferramenta de gerenciamento de testes, planilhas eletrônicas, etc.)
+  3. Execução dos Testes:
+    - Ambiente de teste: Qual ambiente de teste será utilizado? (Ex.: ambiente de homologação, ambiente de produção, etc.)
+    - Dados de teste: Como você obterá os dados de teste necessparios para os testes? (Ex.: dados de produtos, dados de pedidos, dados de usuários, etc.)
+    - Ferramentas de automação: Quais ferramentas de automação serão utilizadas para executar os testes? (Ex.: ferramentas de teste funcional, ferramentas de teste de API, etc.)
+    - Registro de resultados: Como você registrará os resultados dos testes? (Ex.: ferramenta de gerenciamento de testes, planilhas eletrônicas, etc.)
 
-## 2º Cenário:
+# 2º Cenário:
 
 Você está trabalhando como Analista de Qualidade em um projeto de integração com a ferramenta de gerenciamento de estoque Bling em um grande e-commerce. A equipe de desenvolvimento concluiu a implementação da integração e você é responsável por realizar os testes para garantir que a funcionalidade esteja funcionando corretamente.
 
@@ -41,21 +41,21 @@ Você está trabalhando como Analista de Qualidade em um projeto de integração
 
 Descrever detalhadamente o plano de testes que você implementaria para validar a integração com a ferramenta Bling. Inclua no seu plano:
 
-1. Documentação e Materiais de Apoio:
-  - **Identificação da documentação:** Quais documentos e materiais de apoio serão utilizados para embasar o plano de testes? (Ex: documentação oficial da Bling, especificações técnicas da integração, requisitos do projeto, etc.)
-  - **Mapeamento dos requisitos:** Como você mapeará os requisitos da integração aos pontos de teste?
-  - **Utilização de ferramentas:** Quais ferramentas serão utilizadas para auxiliar na análise da documentação e no mapeamento dos requisitos? (Ex: ferramentas de gerenciamento de requisitos, ferramentas de análise de texto, etc.)
+  1. Documentação e Materiais de Apoio:
+    - **Identificação da documentação:** Quais documentos e materiais de apoio serão utilizados para embasar o plano de testes? (Ex: documentação oficial da Bling, especificações técnicas da integração, requisitos do projeto, etc.)
+    - **Mapeamento dos requisitos:** Como você mapeará os requisitos da integração aos pontos de teste?
+    - **Utilização de ferramentas:** Quais ferramentas serão utilizadas para auxiliar na análise da documentação e no mapeamento dos requisitos? (Ex: ferramentas de gerenciamento de requisitos, ferramentas de análise de texto, etc.)
 
-2. Abrangência dos Testes:
-  - **Funcionalidades:** Quais funcionalidades da integração com a Bling serão testadas? (Ex: sincronização de produtos, atualização de estoque, processamento de pedidos, geração de relatórios, etc.)
-  - **Priorização dos testes:** Quais critérios serão utilizados para priorizar os testes? (Ex: criticidade da funcionalidade, impacto no negócio, riscos potenciais, etc.)
+  2. Abrangência dos Testes:
+    - **Funcionalidades:** Quais funcionalidades da integração com a Bling serão testadas? (Ex: sincronização de produtos, atualização de estoque, processamento de pedidos, geração de relatórios, etc.)
+    - **Priorização dos testes:** Quais critérios serão utilizados para priorizar os testes? (Ex: criticidade da funcionalidade, impacto no negócio, riscos potenciais, etc.)
 
-3. Execução dos Testes:
-  - **Dados de teste:** Como você obterá os dados de teste necessários para os testes? (Ex: dados de produtos, dados de estoque, dados de pedidos, etc.)
-  - **Ferramentas de automação:** Quais ferramentas de automação serão utilizadas para executar os testes? (Ex: ferramentas de teste funcional, ferramentas de teste de API, etc.)
-  - **Registro de resultados:** Como você registrará os resultados dos testes? (Ex: ferramenta de gerenciamento de testes, planilhas eletrônicas, etc.)
+  3. Execução dos Testes:
+    - **Dados de teste:** Como você obterá os dados de teste necessários para os testes? (Ex: dados de produtos, dados de estoque, dados de pedidos, etc.)
+    - **Ferramentas de automação:** Quais ferramentas de automação serão utilizadas para executar os testes? (Ex: ferramentas de teste funcional, ferramentas de teste de API, etc.)
+    - **Registro de resultados:** Como você registrará os resultados dos testes? (Ex: ferramenta de gerenciamento de testes, planilhas eletrônicas, etc.)
 
-## 3º Cenário:
+# 3º Cenário:
 
 O cliente entrou em contato devido a uma questão relacionada aos seus anúncios. Quando os itens ficam sem estoque, em vez de serem marcados como "Pausado (sem estoque)", eles estão apenas sendo marcados como "Pausado", o que faz com que os anúncios permaneçam disponíveis para venda no Mercado Livre, mesmo sem estoque real. Isso está resultando em pedidos sendo feitos para itens sem estoque disponível, o que prejudica a reputação do cliente, pois ele precisa cancelar as vendas devido à falta de estoque.
 
