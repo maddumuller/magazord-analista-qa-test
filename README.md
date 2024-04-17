@@ -22,14 +22,14 @@ Descrever detalhadamente o plano de testes que você implementaria para validar 
   - **Mapeamento dos requisitos:** Como você mapeará os requisitos da integração aos pontos de teste?
   - **Utilização de ferramentas:** Quais ferramentas serão utilizadas para auxiliar na análise da documentação e no mapeamento dos requisitos? (Ex.: ferramentas de gerenciamento de requisitos, ferramentas de análise de texto, etc.)
 **2. Abrangência dos Testes:**
-  _ **Funcionalidades:** Quais funcionalidades da integração serão testadas?
-  _ **Casos de uso:** Quais casos de uso serão considerados para cada funcionalidade? (Ex.: cenários de sucesso, cenários de falha, cenários de carga, etc.)
-  _ **Priorização dos testes:** Quais critérios serão utilizados para priorizar os testes? (Ex.: criticidade da funcionalidade, impacto no negócio, riscos potenciais, etc.)
+  - **Funcionalidades:** Quais funcionalidades da integração serão testadas?
+  - **Casos de uso:** Quais casos de uso serão considerados para cada funcionalidade? (Ex.: cenários de sucesso, cenários de falha, cenários de carga, etc.)
+  - **Priorização dos testes:** Quais critérios serão utilizados para priorizar os testes? (Ex.: criticidade da funcionalidade, impacto no negócio, riscos potenciais, etc.)
 **3. Execução dos Testes:**
-  _ **Ambiente de teste:** Qual ambiente de teste será utilizado? (Ex.: ambiente de homologação, ambiente de produção, etc.)
-  _ **Dados de teste:** Como você obterá os dados de teste necessparios para os testes? (Ex.: dados de produtos, dados de pedidos, dados de usuários, etc.)
-  _ **Ferramentas de automação:** Quais ferramentas de automação serão utilizadas para executar os testes? (Ex.: ferramentas de teste funcional, ferramentas de teste de API, etc.)
-  _ **Registro de resultados:** Como você registrará os resultados dos testes? (Ex.: ferramenta de gerenciamento de testes, planilhas eletrônicas, etc.)
+  - **Ambiente de teste:** Qual ambiente de teste será utilizado? (Ex.: ambiente de homologação, ambiente de produção, etc.)
+  - **Dados de teste:** Como você obterá os dados de teste necessparios para os testes? (Ex.: dados de produtos, dados de pedidos, dados de usuários, etc.)
+  - **Ferramentas de automação:** Quais ferramentas de automação serão utilizadas para executar os testes? (Ex.: ferramentas de teste funcional, ferramentas de teste de API, etc.)
+  - **Registro de resultados:** Como você registrará os resultados dos testes? (Ex.: ferramenta de gerenciamento de testes, planilhas eletrônicas, etc.)
 
 # 2º Cenário:
 
@@ -40,16 +40,16 @@ Você está trabalhando como Analista de Qualidade em um projeto de integração
 Descrever detalhadamente o plano de testes que você implementaria para validar a integração com a ferramenta Bling. Inclua no seu plano:
 
 **1. Documentação e Materiais de Apoio:**
-  _ **Identificação da documentação:** Quais documentos e materiais de apoio serão utilizados para embasar o plano de testes? (Ex: documentação oficial da Bling, especificações técnicas da integração, requisitos do projeto, etc.)
-  _ **Mapeamento dos requisitos:** Como você mapeará os requisitos da integração aos pontos de teste?
-  _ **Utilização de ferramentas:** Quais ferramentas serão utilizadas para auxiliar na análise da documentação e no mapeamento dos requisitos? (Ex: ferramentas de gerenciamento de requisitos, ferramentas de análise de texto, etc.)
+  - **Identificação da documentação:** Quais documentos e materiais de apoio serão utilizados para embasar o plano de testes? (Ex: documentação oficial da Bling, especificações técnicas da integração, requisitos do projeto, etc.)
+  - **Mapeamento dos requisitos:** Como você mapeará os requisitos da integração aos pontos de teste?
+  - **Utilização de ferramentas:** Quais ferramentas serão utilizadas para auxiliar na análise da documentação e no mapeamento dos requisitos? (Ex: ferramentas de gerenciamento de requisitos, ferramentas de análise de texto, etc.)
 **2. Abrangência dos Testes:**
-  _ **Funcionalidades:** Quais funcionalidades da integração com a Bling serão testadas? (Ex: sincronização de produtos, atualização de estoque, processamento de pedidos, geração de relatórios, etc.)
-  _ **Priorização dos testes:** Quais critérios serão utilizados para priorizar os testes? (Ex: criticidade da funcionalidade, impacto no negócio, riscos potenciais, etc.)
+  - **Funcionalidades:** Quais funcionalidades da integração com a Bling serão testadas? (Ex: sincronização de produtos, atualização de estoque, processamento de pedidos, geração de relatórios, etc.)
+  - **Priorização dos testes:** Quais critérios serão utilizados para priorizar os testes? (Ex: criticidade da funcionalidade, impacto no negócio, riscos potenciais, etc.)
 **3. Execução dos Testes:**
-  _ **Dados de teste:** Como você obterá os dados de teste necessários para os testes? (Ex: dados de produtos, dados de estoque, dados de pedidos, etc.)
-  _ **Ferramentas de automação:** Quais ferramentas de automação serão utilizadas para executar os testes? (Ex: ferramentas de teste funcional, ferramentas de teste de API, etc.)
-  _ **Registro de resultados:** Como você registrará os resultados dos testes? (Ex: ferramenta de gerenciamento de testes, planilhas eletrônicas, etc.)
+  - **Dados de teste:** Como você obterá os dados de teste necessários para os testes? (Ex: dados de produtos, dados de estoque, dados de pedidos, etc.)
+  - **Ferramentas de automação:** Quais ferramentas de automação serão utilizadas para executar os testes? (Ex: ferramentas de teste funcional, ferramentas de teste de API, etc.)
+  - **Registro de resultados:** Como você registrará os resultados dos testes? (Ex: ferramenta de gerenciamento de testes, planilhas eletrônicas, etc.)
 
 # 3º Cenário:
 
@@ -63,3 +63,18 @@ Envio em anexo um print do anúncio e um print do log, mostrando que não foram 
 Para o caso acima, descreva quais seriam os passos para analise e identificação do problema tendo em vista a documentação do próprio ML. Visto que não possui acesso ao painel seller do cliente e nem ao painel do mesmo no ERP Magazord, quais seriam as possíveis hipóteses do erro.
 
 ![anúncios pausado no magazord e sem estoque](aa.png)
+
+## Avaliação
+
+> [!IMPORTANT]
+> **Os candidatos serão avaliados com base na clareza, precisão e detalhamento das respostas.**
+> **A capacidade de compreender e comunicar efetivamente requisitos e problemas é fundamental.**
+> **A organização e a estrutura das respostas também serão consideradas na avaliação.**
+
+## Envio do teste
+
+> [!NOTE]
+> **Suba o repositório no seu Github e envie o link diretamente para o seu recrutador.**
+
+> [!WARNING]
+> **Não serão aceitos alterações após o envio, caso precise de mais tempo para implementação do projeto alinhe com o seu recrutador com antecedência.**
