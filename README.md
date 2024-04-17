@@ -17,10 +17,10 @@ Um detalhe importante, nessa integração, temos integração de estoque, anúnc
 Descrever detalhadamente o plano de testes que você implementaria para validar a integração com o marketplace. Inclua no seu plano:
 
 **1. Documentação e Materiais de Apoio:**
-  _ **Identificação da documentação:** Quais documentos e materiais de apoio serão utilizados para embasar o plano de testes? (Ex.: documentação oficial dos marketplaces, especificações técnicas da integração, requisitos do projeto, etc.)
-  _ **Análise da documentação:** Como você analisará a documentação para identificar os pontos de teste?
-  _ **Mapeamento dos requisitos:** Como você mapeará os requisitos da integração aos pontos de teste?
-  _ **Utilização de ferramentas:** Quais ferramentas serão utilizadas para auxiliar na análise da documentação e no mapeamento dos requisitos? (Ex.: ferramentas de gerenciamento de requisitos, ferramentas de análise de texto, etc.)
+  - **Identificação da documentação:** Quais documentos e materiais de apoio serão utilizados para embasar o plano de testes? (Ex.: documentação oficial dos marketplaces, especificações técnicas da integração, requisitos do projeto, etc.)
+  - **Análise da documentação:** Como você analisará a documentação para identificar os pontos de teste?
+  - **Mapeamento dos requisitos:** Como você mapeará os requisitos da integração aos pontos de teste?
+  - **Utilização de ferramentas:** Quais ferramentas serão utilizadas para auxiliar na análise da documentação e no mapeamento dos requisitos? (Ex.: ferramentas de gerenciamento de requisitos, ferramentas de análise de texto, etc.)
 **2. Abrangência dos Testes:**
   _ **Funcionalidades:** Quais funcionalidades da integração serão testadas?
   _ **Casos de uso:** Quais casos de uso serão considerados para cada funcionalidade? (Ex.: cenários de sucesso, cenários de falha, cenários de carga, etc.)
